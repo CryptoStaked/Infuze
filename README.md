@@ -27,3 +27,12 @@ Thank you to all the awesome developers who have made their software open source
 * Brian Gladman (For his C version of AESB which we ported)
 
 If we have used your software and incorrectly attributed you, or not attributed you, please let us know!
+
+# Further References
+
+As part of this project, I have also used a few MIT and Apache 2 licensed projects, and would like to pay thanks to them:
+
+* [Microsoft.Data.Sqlite](https://www.asp.net/) - Microsoft (Apache 2)
+* [BrotliSharpLib](https://github.com/master131/BrotliSharpLib) - Master131 on GitHub (MIT)
+* [LibSodium-Core](https://github.com/tabrath/libsodium-core) - .Net Core compatable fork by Tabrath on GitHub (MIT), forked from [LibSodium-Net](https://github.com/adamcaudill/libsodium-net) by AdamCaudill on GitHub (MIT)
+* [SQLitePCL.raw](https://github.com/ericsink/SQLitePCL.raw) - bundle_green by EricSink on GitHub (Apache 2)
