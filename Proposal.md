@@ -1,6 +1,12 @@
 # Infuze
 
+## Summary
+
 Infuze is a blockchain project that I've been mulling over in my head for a while now, and although I plan to keep specifics private for the time being, I will be taking and posting personal notes here for future reference and critique. The reference implementation will use a PoS (Proof-of-Stake) consensus and reward system.
+
+## About Me
+
+I come from a background working with a few blockchain and cryptocurrency projects, and actively develop on them still. This is a side-project for me, as somewhere to coalese the thoughts and experience I've gathered working with those other projects. I view these projects each as an art in their own right, and enjoy the process of creating something new.
 
 # Proof of Stake
 
