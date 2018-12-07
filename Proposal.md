@@ -44,20 +44,30 @@ An input is a verifiable mapping of value tracing back to a coinbase transaction
 
 ## Genesis Template
 
+```
 (Coming Soon)
+```
 
 ## Block Template
 
+```
 (Coming Soon)
+```
 
 ## Transaction Template
 
+```
 (Coming Soon)
+```
 
 ## Input Template
 
+```
 (Coming Soon)
+```
 
 ## Output Template
 
+```
 (Coming Soon)
+```
