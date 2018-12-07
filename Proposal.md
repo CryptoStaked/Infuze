@@ -39,3 +39,25 @@ When a block is prouced with an associated reward, this reward is split into a s
 ## Inputs, Outputs, and Storage
 
 An input is a verifiable mapping of value tracing back to a coinbase transaction signed by a block on the network. When a transfer transaction is made, the given outputs supply a destination and amount. Inputs owned by the sender are then added up until they are able to reach the value of each specified output, plus a network fee if applicable. These inputs, when verified, are then re-mapped to be owned by the destination key. Inputs are verifiable, outputs are roadmaps. In the future, I may implement ring signatures into the project, but would have to think about staking and authority in a different way to achieve that.
+
+# Templates
+
+## Genesis Template
+
+(Coming Soon)
+
+## Block Template
+
+(Coming Soon)
+
+## Transaction Template
+
+(Coming Soon)
+
+## Input Template
+
+(Coming Soon)
+
+## Output Template
+
+(Coming Soon)
